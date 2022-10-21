@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+凯尔派码斋，一个自学前端的半科班生的学习纪录。  
 
-Maybe say a some things about yourself.
+每周更新一次自己学习前端的心得，不会像笔记那样详细，以厘清重点为准。  
 
-Or maybe what you plan to blog about.
+有时间可能会写面向桌面用户的Linux经验分享。  
